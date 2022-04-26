@@ -1,2 +1,5 @@
 # traditional-prediction-algorithm
-this page mainly describe the model of GM(1,1)
+#### 介绍
+灰色预测模型是通过少量的、不完全的信息，建立数学模型做出预测的一种预测方法。是基于客观事物的过去和现在的发展规律，借助于科学的方法对未来的发展趋势和状况进行描述和分析，并形成科学的假设和判断。
+#### 功能
+本项目主要实现灰色预测模型GM(1,1)
